@@ -1,0 +1,37 @@
+{
+	"name": "Vimium C",
+	"@time": "8/4/2023, 12:03:08 PM",
+	"time": 1691164988336,
+	"environment": {
+		"extension": "1.99.994",
+		"platform": "mac",
+		"chromium": 115
+	},
+	"autoDarkMode": 0,
+	"keyLayout": 2,
+	"keyMappings": [
+		"#!no-check",
+		"unmap d",
+		"unmap `",
+		"map H scrollLeft",
+		"map L scrollRight",
+		"map K scrollPageUp",
+		"map J scrollPageDown",
+		"map [ goBack",
+		"map ] goForward",
+		"map h previousTab",
+		"map l nextTab",
+		"map gp visitPreviousTab",
+		"map gh firstTab",
+		"map gl lastTab",
+		"map dh closeTabsOnLeft",
+		"map dl closeTabsOnRight",
+		"map dd closeOtherTabs",
+		"map ' Marks.activate",
+		"map x moveTabToNextWindow",
+		"map w removeTab",
+		"map W restoreTab",
+		""
+	],
+	"vimSync": true
+}
