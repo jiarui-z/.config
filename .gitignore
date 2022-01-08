@@ -4,6 +4,7 @@
 !/.gitignore
 !/ranger/
 !/vimium-options.json
+!/iterm-profile.json
 !/zsh/
 /zsh/*
 !/zsh/.zshrc
