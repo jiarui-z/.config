@@ -5,6 +5,10 @@
 !/ranger/
 !/vimium-options.json
 !/iterm-profile.json
+!/tmux/
+!/karabiner/
+/karabiner/*
+!/karabiner/karabiner.json
 !/zsh/
 /zsh/*
 !/zsh/.zshrc
