@@ -19,8 +19,10 @@ zmodule utility
 #
 # Exposes git repository status information to prompts, used by asciiship.
 zmodule git-info
+# prompt pwd
+zmodule prompt-pwd
 # Theme
-zmodule Ansimorph/oblong
+zmodule jiarui-z/gitster
 
 # Additional completion definitions for Zsh.
 zmodule zsh-users/zsh-completions
